@@ -1,1 +1,2 @@
-# js_hello_world
+# JS Hello World
+A simple JS hello world example
